@@ -43,6 +43,30 @@ This project focuses on analyzing the **three-dimensional structure** of the BRC
 
 ---
 
+## 🖼️ Screenshots (Step-wise Analysis)
+
+### 🔹 Figure 1: PDB Homepage
+
+![Figure 1](Screenshots/1%20PDB%20SITE.png)
+
+### 🔹 Figure 2: Search Results
+
+![Figure 2](Screenshots/2.SEARCH%20RESULT.png)
+
+### 🔹 Figure 3: Ribbon Structure
+
+![Figure 3](Screenshots/3.RIBBON%20REP.png)
+
+### 🔹 Figure 4: Ligand Interaction
+
+![Figure 4](Screenshots/4.3D%20VIEW.png)
+
+### 🔹 Figure 5: Binding Pocket
+
+![Figure 5](Screenshots/5.BINDING%20POCKET.png)
+
+---
+
 ## ⚠️ Limitations
 
 * Only BRCT domain analyzed
